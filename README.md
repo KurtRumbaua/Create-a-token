@@ -8,8 +8,6 @@ MyToken is a simplified representation of a digital currency (cryptocurrency) bu
 
 ## Getting Started
 
-### Executing program
-
 ### Executing the Program
 
 This section guides you through deploying and interacting with the `MyToken` contract using Remix IDE.
